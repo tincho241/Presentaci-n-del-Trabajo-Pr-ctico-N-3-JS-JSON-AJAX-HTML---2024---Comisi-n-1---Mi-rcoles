@@ -1,0 +1,16 @@
+[
+    {
+      "_id": { "$oid": "667a35b94fb3ac866cc042df" },
+      "id": 1,
+      "title": "Java - Café Barista",
+      "price": 19.9,
+      "description": "Nuestro tradicional house blend, el hijo prodigio de la casa. Granos provenientes de Brasil, nos permiten obtener este cafe pleno, de cuerpo medio, sin acidez ni amargor. Si lo vas a tomar en tu casa, te vas a sentir bien cerca de TIENDA. Notas: chocolate",
+      "category": "Café en grano",
+      "image": "https://tiendadecafe.com.ar/wp-content/uploads/2021/03/Productos_cafe_packs_BARISTA_frente.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    }
+  ]
+  
